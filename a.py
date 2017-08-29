@@ -1,3 +1,3 @@
-print "Hello world"
-print "Salem Alem"
-print "Privet"
+print "Hello world !!!"
+print "Salem Alem !!!"
+print "Privet !!!"
